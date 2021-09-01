@@ -1,0 +1,47 @@
+.loadingPageS {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    margin-top: 14%;
+}
+
+body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(68, 204, 245);
+    height: 100%;
+    width: 100%;
+}
+
+/*loading text*/
+.textH3S {
+    font-size: 2em;
+    background-image: -webkit-gradient(linear, left top, right top, color-stop(0, #0c4bd1), color-stop(0.15, #0c4bd1), color-stop(0.3, #9453a6), color-stop(0.45, #9453a6), color-stop(0.6, #9453a6), color-stop(0.75, #9453a6), color-stop(0.9, #9453a6), color-stop(1, #9453a6));
+    font-family: 'Patrick Hand', cursive;
+    font-family: 'Press Start 2P', cursive;
+    color: transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
+}
+
+/*loading text*/
+
+/*loading animation*/
+
+.loadingImgS {
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/*loading animation*/
+
+/*counter*/
+#counter {
+    display: none;
+}
+
+/*counter*/
